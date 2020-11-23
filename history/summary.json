@@ -5,7 +5,7 @@
     "slug": "demis",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1668
+    "time": 1655
   },
   {
     "name": "demis-promo",
@@ -13,6 +13,6 @@
     "slug": "demis-promo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 232
+    "time": 249
   }
 ]
