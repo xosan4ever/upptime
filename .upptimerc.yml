@@ -9,7 +9,7 @@ sites:
   - name: demis-promo
     url: https://demis-promo.com/
   - name: test
-    url: https://demis-promosass.com/
+    url: https://jjpapa.com/
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
