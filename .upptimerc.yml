@@ -8,10 +8,6 @@ sites:
     url: https://www.demis.ru/
   - name: demis-promo
     url: https://demis-promo.com/
-  - name: test
-    url: https://jjpapa222.com/
-  - name: test2
-    url: https://jjpapa223232.com/
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
