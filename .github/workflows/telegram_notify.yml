@@ -14,4 +14,4 @@ jobs:
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
-        args:  ${{ github.event.issue.body }}. Перейти к задаче ${{ github.event.issue.url }}
+        args:  ${{ github.event.issue.body }}. Перейти к задаче ${{ github.event.issue.html_url }}
