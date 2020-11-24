@@ -10,7 +10,7 @@ sites:
     url: https://demis-promo.com/
   - name: test
     url: https://jjpapa222.com/
-      - name: test2
+  - name: test2
     url: https://jjpapa223232.com/
 
 status-website:
