@@ -1,5 +1,6 @@
 name: telegram message
-issues:
+on:
+  issues:
     types: [opened]
 jobs:
 
