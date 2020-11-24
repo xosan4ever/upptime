@@ -4,12 +4,14 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: demis
+  - name: demis.ru
     url: https://www.demis.ru/
-  - name: demis-promo
+  - name: demis-promo.com
     url: https://demis-promo.com/
-  - name: test
-    url: https://demis-promssso.com/
+  - name: пишем-отзывы.рф
+    url: https://xn----dtbhjczpd6a7cybb.xn--p1ai/
+  - name: отзывы-тут.рф
+    url: https://xn----ctbo1audah2eb.xn--p1ai/
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
