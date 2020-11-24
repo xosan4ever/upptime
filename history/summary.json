@@ -5,7 +5,7 @@
     "slug": "demis",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1642
+    "time": 1798
   },
   {
     "name": "demis-promo",
@@ -13,6 +13,14 @@
     "slug": "demis-promo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 258
+    "time": 295
+  },
+  {
+    "name": "test",
+    "url": "https://demis-promssso.com/",
+    "slug": "test",
+    "status": "down",
+    "uptime": "100.00%",
+    "time": 0
   }
 ]
