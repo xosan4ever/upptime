@@ -19,16 +19,16 @@
     "name": "пишем-отзывы.рф",
     "url": "https://xn----dtbhjczpd6a7cybb.xn--p1ai/",
     "slug": "pishem-otzyvy-rf",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 757
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 703
   },
   {
     "name": "отзывы-тут.рф",
     "url": "https://xn----ctbo1audah2eb.xn--p1ai/",
     "slug": "otzyvy-tut-rf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 807
+    "time": 770
   }
 ]
