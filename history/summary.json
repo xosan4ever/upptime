@@ -5,7 +5,7 @@
     "slug": "demis-ru",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1438
+    "time": 1446
   },
   {
     "name": "demis-promo.com",
@@ -13,22 +13,22 @@
     "slug": "demis-promo-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 424
+    "time": 420
   },
   {
     "name": "пишем-отзывы.рф",
     "url": "https://xn----dtbhjczpd6a7cybb.xn--p1ai/",
     "slug": "pishem-otzyvy-rf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 705
+    "time": 676
   },
   {
     "name": "отзывы-тут.рф",
     "url": "https://xn----ctbo1audah2eb.xn--p1ai/",
     "slug": "otzyvy-tut-rf",
     "status": "up",
-    "uptime": "99.42%",
-    "time": 801
+    "uptime": "99.52%",
+    "time": 818
   }
 ]
