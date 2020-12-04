@@ -8,10 +8,12 @@ sites:
     url: https://www.demis.ru/
   - name: demis-promo.com
     url: https://demis-promo.com/
-  - name: пишем-отзывы.рф
+  - name: pishem-otzivi
     url: https://xn----dtbhjczpd6a7cybb.xn--p1ai/
-  - name: отзывы-тут.рф
+    maxResponseTime: 7000
+  - name: otzivi-tut
     url: https://xn----ctbo1audah2eb.xn--p1ai/
+    maxResponseTime: 7000
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
