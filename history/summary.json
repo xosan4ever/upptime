@@ -2,6 +2,7 @@
   {
     "name": "demis.ru",
     "url": "https://www.demis.ru/",
+    "icon": "https://favicons.githubusercontent.com/www.demis.ru",
     "slug": "demis-ru",
     "status": "up",
     "uptime": "100.00%",
@@ -13,11 +14,13 @@
     "timeDay": 1523,
     "timeWeek": 1612,
     "timeMonth": 1627,
-    "timeYear": 1627
+    "timeYear": 1627,
+    "dailyMinutesDown": {}
   },
   {
     "name": "demis-promo.com",
     "url": "https://demis-promo.com/",
+    "icon": "https://favicons.githubusercontent.com/demis-promo.com",
     "slug": "demis-promo-com",
     "status": "up",
     "uptime": "100.00%",
@@ -29,11 +32,13 @@
     "timeDay": 288,
     "timeWeek": 484,
     "timeMonth": 485,
-    "timeYear": 485
+    "timeYear": 485,
+    "dailyMinutesDown": {}
   },
   {
     "name": "pishem-otzivi",
     "url": "https://xn----dtbhjczpd6a7cybb.xn--p1ai/",
+    "icon": "https://favicons.githubusercontent.com/xn----dtbhjczpd6a7cybb.xn--p1ai",
     "slug": "pishem-otzivi",
     "status": "up",
     "uptime": "100.00%",
@@ -45,22 +50,27 @@
     "timeDay": 1168,
     "timeWeek": 1088,
     "timeMonth": 1088,
-    "timeYear": 1088
+    "timeYear": 1088,
+    "dailyMinutesDown": {}
   },
   {
     "name": "otzivi-tut",
     "url": "https://xn----ctbo1audah2eb.xn--p1ai/",
+    "icon": "https://favicons.githubusercontent.com/xn----ctbo1audah2eb.xn--p1ai",
     "slug": "otzivi-tut",
-    "status": "up",
-    "uptime": "98.25%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "98.25%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 1303,
-    "timeDay": 1334,
+    "timeDay": 1400,
     "timeWeek": 1303,
     "timeMonth": 1303,
-    "timeYear": 1303
+    "timeYear": 1303,
+    "dailyMinutesDown": {
+      "2020-12-06": 33
+    }
   }
 ]
