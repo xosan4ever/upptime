@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1627,
-    "timeDay": 1523,
-    "timeWeek": 1612,
-    "timeMonth": 1627,
-    "timeYear": 1627,
+    "time": 1621,
+    "timeDay": 1532,
+    "timeWeek": 1615,
+    "timeMonth": 1621,
+    "timeYear": 1621,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 288,
-    "timeWeek": 484,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "time": 487,
+    "timeDay": 522,
+    "timeWeek": 499,
+    "timeMonth": 487,
+    "timeYear": 487,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "https://xn----dtbhjczpd6a7cybb.xn--p1ai/",
     "icon": "https://favicons.githubusercontent.com/xn----dtbhjczpd6a7cybb.xn--p1ai",
     "slug": "pishem-otzivi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1088,
-    "timeDay": 1168,
-    "timeWeek": 1088,
-    "timeMonth": 1088,
-    "timeYear": 1088,
-    "dailyMinutesDown": {}
+    "time": 1098,
+    "timeDay": 1248,
+    "timeWeek": 1098,
+    "timeMonth": 1098,
+    "timeYear": 1098,
+    "dailyMinutesDown": {
+      "2020-12-06": 0
+    }
   },
   {
     "name": "otzivi-tut",
@@ -59,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/xn----ctbo1audah2eb.xn--p1ai",
     "slug": "otzivi-tut",
     "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
-    "time": 1322,
-    "timeDay": 1411,
-    "timeWeek": 1322,
-    "timeMonth": 1322,
-    "timeYear": 1322,
+    "uptime": "99.08%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
+    "time": 1309,
+    "timeDay": 1432,
+    "timeWeek": 1309,
+    "timeMonth": 1309,
+    "timeYear": 1309,
     "dailyMinutesDown": {
-      "2020-12-06": 37
+      "2020-12-06": 33
     }
   }
 ]
