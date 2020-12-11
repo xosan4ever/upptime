@@ -14,6 +14,9 @@ sites:
   - name: otzivi-tut
     url: https://xn----ctbo1audah2eb.xn--p1ai/
     maxResponseTime: 7000
+  - name: sofidemarko
+    url: https://sofidemarko.ru/
+    
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
