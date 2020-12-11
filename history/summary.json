@@ -81,19 +81,19 @@
     "url": "https://sofidemarko.ru/",
     "icon": "https://favicons.githubusercontent.com/sofidemarko.ru",
     "slug": "sofidemarko",
-    "status": "down",
-    "uptime": "72.80%",
-    "uptimeDay": "72.80%",
-    "uptimeWeek": "72.80%",
-    "uptimeMonth": "72.80%",
-    "uptimeYear": "72.80%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.88%",
+    "uptimeDay": "4.88%",
+    "uptimeWeek": "4.88%",
+    "uptimeMonth": "4.88%",
+    "uptimeYear": "4.88%",
+    "time": 1015,
+    "timeDay": 1015,
+    "timeWeek": 1015,
+    "timeMonth": 1015,
+    "timeYear": 1015,
     "dailyMinutesDown": {
-      "2020-12-11": 0
+      "2020-12-11": 13
     }
   }
 ]
