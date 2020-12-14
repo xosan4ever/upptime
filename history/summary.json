@@ -4,9 +4,9 @@
     "url": "https://www.demis.ru/",
     "icon": "https://favicons.githubusercontent.com/www.demis.ru",
     "slug": "demis-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1484,
     "timeMonth": 1576,
     "timeYear": 1576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-14": 0
+    }
   },
   {
     "name": "demis-promo.com",
@@ -59,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/xn----ctbo1audah2eb.xn--p1ai",
     "slug": "otzivi-tut",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.76%",
     "uptimeDay": "98.88%",
     "uptimeWeek": "98.60%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.75%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
     "time": 1304,
     "timeDay": 1374,
     "timeWeek": 1311,
