@@ -170,17 +170,17 @@
     "url": "https://dms-spb.ru/",
     "icon": "https://favicons.githubusercontent.com/dms-spb.ru",
     "slug": "dms-spb",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3489,
-    "timeDay": 6759,
-    "timeWeek": 3489,
-    "timeMonth": 3489,
-    "timeYear": 3489,
+    "time": 3319,
+    "timeDay": 5732,
+    "timeWeek": 3319,
+    "timeMonth": 3319,
+    "timeYear": 3319,
     "dailyMinutesDown": {}
   }
 ]
