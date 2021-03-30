@@ -1,7 +1,7 @@
 url: https://dms-spb.ru/
-status: up
-code: 200
-responseTime: 1441
-lastUpdated: 2021-03-29T23:13:10.336Z
+status: down
+code: 500
+responseTime: 979
+lastUpdated: 2021-03-30T06:21:23.956Z
 startTime: Wed Mar 17 2021 12:37:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
