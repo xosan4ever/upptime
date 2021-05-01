@@ -13,7 +13,7 @@
     "time": 1681,
     "timeDay": 1488,
     "timeWeek": 1641,
-    "timeMonth": 1673,
+    "timeMonth": 1676,
     "timeYear": 1681,
     "dailyMinutesDown": {
       "2021-04-28": 29,
@@ -36,7 +36,7 @@
     "time": 717,
     "timeDay": 2810,
     "timeWeek": 1118,
-    "timeMonth": 1037,
+    "timeMonth": 1010,
     "timeYear": 717,
     "dailyMinutesDown": {
       "2021-03-29": 37,
@@ -59,12 +59,12 @@
     "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.34%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "99.31%",
     "time": 1460,
     "timeDay": 1005,
     "timeWeek": 1113,
-    "timeMonth": 1703,
+    "timeMonth": 1660,
     "timeYear": 1460,
     "dailyMinutesDown": {
       "2021-04-28": 23,
@@ -121,17 +121,16 @@
     "slug": "otzivi-tut",
     "status": "up",
     "uptime": "97.60%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "97.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "97.85%",
     "uptimeYear": "97.60%",
     "time": 1426,
     "timeDay": 1349,
     "timeWeek": 1373,
-    "timeMonth": 1710,
+    "timeMonth": 1721,
     "timeYear": 1426,
     "dailyMinutesDown": {
-      "2021-04-30": 13,
       "2021-04-29": 46,
       "2021-04-26": 16,
       "2021-04-25": 61,
@@ -210,7 +209,7 @@
       "2020-12-13": 17,
       "2020-12-12": 21,
       "2020-12-10": 18,
-      "2020-12-09": 25
+      "2020-12-09": 44
     }
   },
   {
@@ -227,7 +226,7 @@
     "time": 2410,
     "timeDay": 1379,
     "timeWeek": 1463,
-    "timeMonth": 1705,
+    "timeMonth": 1706,
     "timeYear": 2410,
     "dailyMinutesDown": {
       "2021-04-15": 125,
