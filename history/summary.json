@@ -123,18 +123,18 @@
     "icon": "https://favicons.githubusercontent.com/xn----ctbo1audah2eb.xn--p1ai",
     "slug": "otzivi-tut",
     "status": "up",
-    "uptime": "97.67%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "97.67%",
+    "uptime": "97.66%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "97.66%",
     "time": 1430,
     "timeDay": 1509,
-    "timeWeek": 1467,
+    "timeWeek": 1486,
     "timeMonth": 1615,
     "timeYear": 1430,
     "dailyMinutesDown": {
-      "2021-05-03": 26,
+      "2021-05-03": 15,
       "2021-04-29": 46,
       "2021-04-26": 16,
       "2021-04-25": 61,
@@ -212,7 +212,8 @@
       "2020-12-14": 16,
       "2020-12-13": 17,
       "2020-12-12": 21,
-      "2020-12-10": 18
+      "2020-12-10": 18,
+      "2020-12-09": 25
     }
   },
   {
