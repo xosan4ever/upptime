@@ -1,7 +1,7 @@
 url: https://www.demis.ru/
-status: up
-code: 200
-responseTime: 1512
-lastUpdated: 2023-03-27T23:09:53.394Z
+status: down
+code: 500
+responseTime: 1684
+lastUpdated: 2023-03-29T10:07:14.585Z
 startTime: Tue Jan 05 2021 18:16:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
